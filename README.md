@@ -32,7 +32,7 @@ world (fixed)
 | Joint | Min | Max | Max Velocity | Max Effort |
 |-------|-----|-----|--------------|------------|
 | `openarmx_head_yaw_joint` | -90 deg (-1.5708 rad) | +90 deg (+1.5708 rad) | 33.0 rad/s | 14.0 Nm |
-| `openarmx_head_pitch_joint` | -90 deg (-1.5708 rad) | +90 deg (+1.5708 rad) | 33.0 rad/s | 14.0 Nm |
+| `openarmx_head_pitch_joint` | -62.2 deg (-1.086 rad) | +23.1 deg (+0.403 rad) | 33.0 rad/s | 14.0 Nm |
 
 ## Xacro Arguments
 

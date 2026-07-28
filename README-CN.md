@@ -32,7 +32,7 @@ world（固定）
 | 关节 | 最小值 | 最大值 | 最大速度 | 最大力矩 |
 |------|--------|--------|----------|----------|
 | `openarmx_head_yaw_joint` | -90° (-1.5708 rad) | +90° (+1.5708 rad) | 33.0 rad/s | 14.0 Nm |
-| `openarmx_head_pitch_joint` | -90° (-1.5708 rad) | +90° (+1.5708 rad) | 33.0 rad/s | 14.0 Nm |
+| `openarmx_head_pitch_joint` | -62.2° (-1.086 rad) | +23.1° (+0.403 rad) | 33.0 rad/s | 14.0 Nm |
 
 ## Xacro 参数
 
